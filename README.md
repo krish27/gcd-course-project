@@ -1,11 +1,10 @@
-# Getting and Cleaning Data Project
+## Course Project - Getting and Cleaning Data Project
 
-## Course Project 
+Description on prerequisites and how to run run_analysis.R to get clean tidy data set
 
-## Description on prerequisites and how to run run_analysis.R to get clean tidy data set
-## run_analysis.R
+##Note1: 
 
-##Note1: To run this project run_analyis.R and the data should be available in your current working directory. 
+To run this project run_analyis.R and the data should be available in your current working directory. 
 
 ##Follow two steps below to get the clean tidy dataset..............
 
