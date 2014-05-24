@@ -4,9 +4,10 @@ Description on prerequisites and how to run run_analysis.R to get clean tidy dat
 
 ##Note1: 
 
-To run this project run_analyis.R and the data should be available in your current working directory. 
+To run this project run_analyis.R available in your current working directory 
+and data should be available under 'data' folder in you current working directory.......
 
-##Follow two steps below to get the clean tidy dataset..............
+Follow two steps below to get the clean tidy dataset..............
 
 Step1:  Download the data from link https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
         Once download is complete, unzip the folder getdata-projectfiles-UCI HAR Dataset.zip
